@@ -1,5 +1,5 @@
 _repo: The-Cruise-of-the-Dry-Dock_9547
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Stoops, Herbert Morton
@@ -8,6 +8,9 @@ contributor:
     - Stoops, H. M. (Herbert Morton)
     gutenberg_agent_id: '37319'
     url: http://www.gutenberg.org/2009/agents/37319
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stribling, T. S. (Thomas Sigismund)
@@ -19,6 +22,8 @@ creator:
 description: A World War I seaborne adventure story set in the German infested waters
   of the Sargasso Sea, where an American crew tries to escape capture and certain
   death by the hands of the evil axis members.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9547#The-Cruise-of-the-Dry-Dock
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
